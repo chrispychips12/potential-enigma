@@ -13,6 +13,8 @@ const questions = [
     {type: 'input', name: 'contributing', message: 'Please provide contribution guidelines for your project.'},
     {type: 'input', name: 'tests', message: 'Please provide test instructions for your project.'},
     {type: 'list', name: 'license', message: 'Choose a license:', choices: ['MIT', 'GPLv3', 'Apache 2.0', 'BSD 3-Clause', 'None'] },
+    {type: 'input', name: 'github', message: 'What is your GitHub username?'},
+    {type: 'input', name: 'email', message: 'What is your email address?'}
 
 ];
 
