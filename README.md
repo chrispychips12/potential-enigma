@@ -4,6 +4,8 @@
 
 Link to video demonstration: https://drive.google.com/file/d/1Krsv0T3vEDFNzyZzRhzKbdCoJLMZq8vU/view?pli=1
 
+Please change video quality to 1080P
+
 Link to GitHub Repo: https://github.com/chrispychips12/potential-enigma
 
 USER STORY
